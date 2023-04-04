@@ -15,5 +15,8 @@
 ## how it looks like right now
 ![alt text](https://i.ibb.co/VgDJ4Cs/photo-2023-04-02-21-58-01.jpg)
 
+## how it looks like with kmeans
+![alt text](https://i.ibb.co/6FtNkKm/iz2-LDu-E-JTs.jpg)
+
 Yeap , it not looks sharp and also need apply method: `cv2.line(img, (x1, y1), (x2, y2), (0, 255, 0), thickness=2)`
  
