@@ -3,6 +3,6 @@
 Here located coordinates of points, before used filter
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/ViktorPavlovA/tracking-people/blob/main/points/1.png)
 
- ![alt text](http://url/to/img.png)
+ ![alt text](https://github.com/ViktorPavlovA/tracking-people/blob/main/points/2.png)
