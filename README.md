@@ -10,7 +10,7 @@
 - Need to do filter function - `done`
 - ~~maybe try to train `yolo CNN` in black and white pictures, also maybe make a shot in way of `k-means` picture,because where are a lot differnet reflections of people.~~
 - ~~by the way, also we can collecte the points of middle boxes and also predict with using `NN with LSTM `. Hello Pytorch.~~
-- ~~also  need try segmentation CNN like Unet, but first need to do is make more than 12 mask. After it should make augmentation.~~ I used pytorch for segmentation, but `HOGDescriptor` couldn't find man on img then he was far from camera.
+- ~~also  need try segmentation CNN like Unet, but first need to do is make more than 12 mask. After it should make augmentation.~~ I used pytorch for segmentation, but `HOGDescriptor` couldn't find man on img then he was far from camera. **Py script located in test_torch folder**
 
 ## how it looks like right now
 ![alt text](https://i.ibb.co/VgDJ4Cs/photo-2023-04-02-21-58-01.jpg)
@@ -22,6 +22,6 @@
 
 ![alt text](https://github.com/ViktorPavlovA/tracking-people/blob/main/reference_man/Screenshot_10.jpg)
 
-It is a final version with fine filter according on data that i grabbed from image
+It is a final version with fine filter according on data that i grabbed from image. Data located in **points folder**
 
  
