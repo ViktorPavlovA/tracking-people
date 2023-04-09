@@ -18,7 +18,7 @@
 ## how it looks like with kmeans
 ![alt text](https://i.ibb.co/6FtNkKm/iz2-LDu-E-JTs.jpg)
 
-### Final_script.py
+# Final_script.py
 
 ![alt text](https://github.com/ViktorPavlovA/tracking-people/blob/main/reference_man/Screenshot_10.jpg)
 
