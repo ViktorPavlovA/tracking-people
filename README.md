@@ -20,7 +20,7 @@
 
 ### Final_script.py
 
-![alt text](https://i.ibb.co/6FtNkKm/iz2-LDu-E-JTs.jpg)
+![alt text](https://github.com/ViktorPavlovA/tracking-people/blob/main/reference_man/Screenshot_10.jpg)
 
 It is a final version with fine filter according on data that i grabbed from image
 
